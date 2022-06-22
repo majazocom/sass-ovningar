@@ -11,7 +11,7 @@ This project will require knowledge of html forms to create.
 
 
 ## Project Landing page
-This will test your knowledge of both HTML and CSS. You will be required to practice creating (flex)boxes and aligning items within other boxes. 
+This will test your knowledge of both HTML and SCSS. You will be required to practice creating (flex)boxes and aligning items within other boxes. 
 You will also need to do basic editing of images e.g. cropping and resizing to make perfect images for your web page.
 
 
