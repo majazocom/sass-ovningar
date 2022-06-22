@@ -2,7 +2,7 @@
 # SCSS Exercises
 
 ## Tribute
-Write a tribute of someone you admire and publish as a web page. This project will involve working with adding image, links, lists and paragraphs. This project will require knowledge of HTML to create. However, you can use a bit of CSS to make the project look better.
+Write a tribute of someone you admire and publish as a web page. This project will involve working with adding image, links, lists and paragraphs. This project will require knowledge of HTML to create. However, you can use a bit of SCSS to make the project look better.
 
 
 ## Survey form
